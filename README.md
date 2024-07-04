@@ -3,16 +3,21 @@ A chat with pdf app, made by using Streamlit, Ollama &amp; Langchain.
 
 ## How To Use
 
-1. Install Ollama  
+1. Install Ollama
+   
    Here's the Link: ```https://www.ollama.com/```
 2. Open CMD 
+
    Run this command: ```ollama run qwen2:0.5b```
 3. Open CMD 
+
    Run this command: ```pip install streamlit pypdf2 langchain langchain_community faiss-cpu```
 4. Open the folder/directory where you have downloaded/cloned all the files, write cmd in the Address Bar 
+
    Run this command: ```streamlit run chat_with_pdf.py```
 
 Your all set !
+
 Note you can use any model available on Ollama, just change the model name in the code.
 
 ## Demo
