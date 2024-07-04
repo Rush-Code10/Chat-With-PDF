@@ -3,5 +3,3 @@ pypdf2
 langchain
 langchain_community
 faiss-cpu
-InstructorEmbedding
-sentence-transformers
